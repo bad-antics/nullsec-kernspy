@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-NullSec KernSpy is a Secure Linux kernel module analyzer written in Go. It provides deep inspection of loaded kernel modules with comprehensive security Security to prevent exploitation during analysis.
+NullSec KernSpy is a Secure Linux kernel module analyzer written in Go. It provides deep inspection of loaded kernel modules with comprehensive security features to prevent exploitation during analysis.
 
 ## ✨ Features
 
