@@ -3,11 +3,11 @@
 <div align="center">
 
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)
-![Security](https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=shield)
+![Security](https://img.shields.io/badge/Security-Secure-red?style=for-the-badge&logo=shield)
 ![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/License-Proprietary-purple?style=for-the-badge)
 
-**Hardened Linux Kernel Module Analyzer**
+**Secure Linux Kernel Module Analyzer**
 
 *Memory-safe kernel module inspection with defense-in-depth architecture*
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-NullSec KernSpy is a hardened Linux kernel module analyzer written in Go. It provides deep inspection of loaded kernel modules with comprehensive security hardening to prevent exploitation during analysis.
+NullSec KernSpy is a Secure Linux kernel module analyzer written in Go. It provides deep inspection of loaded kernel modules with comprehensive security Security to prevent exploitation during analysis.
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ NullSec KernSpy is a hardened Linux kernel module analyzer written in Go. It pro
 - **🔒 Memory-Safe** - Go runtime prevents memory corruption
 - **📝 Detailed Reports** - Module metadata, dependencies, and signatures
 
-## 🛡️ Security Hardening
+## 🛡️ Security Security
 
 ```
 ┌─────────────────────────────────────────────┐
