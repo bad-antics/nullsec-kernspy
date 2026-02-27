@@ -137,7 +137,7 @@ NullSec Proprietary License - See LICENSE file for details.
 **bad-antics**
 - GitHub: [@bad-antics](https://github.com/bad-antics)
 - Website: [bad-antics.github.io](https://bad-antics.github.io)
-- Discord: [x.com/AnonAntics](https://x.com/AnonAntics)
+- Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ---
 
